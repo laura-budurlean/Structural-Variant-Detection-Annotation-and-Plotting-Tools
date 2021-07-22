@@ -18,3 +18,6 @@ Circos can be used to plot and visualize translocation information and various o
 
 [MapOptics] (https://github.com/FadyMohareb/mapoptics)
 "MapOptics is a lightweight cross-platform tool that enables the user to visualise and interact with the alignment of Bionano optical mapping data and can be used for in depth exploration of hybrid scaffolding alignments."
+
+[OMTools] (https://github.com/TF-Chan-Lab/OMTools)
+"A software package for optical mapping data processing, analysis and visualization"
