@@ -21,3 +21,7 @@ Circos can be used to plot and visualize translocation information and various o
 
 [OMTools] (https://github.com/TF-Chan-Lab/OMTools)
 "A software package for optical mapping data processing, analysis and visualization"
+
+[ChimeRScope] (https://pubmed.ncbi.nlm.nih.gov/28472320/)
+"ChimeRScope: a novel alignment-free algorithm for fusion transcript prediction using paired-end RNA-Seq data"
+
