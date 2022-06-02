@@ -25,3 +25,5 @@ Circos can be used to plot and visualize translocation information and various o
 [ChimeRScope] (https://pubmed.ncbi.nlm.nih.gov/28472320/)
 "ChimeRScope: a novel alignment-free algorithm for fusion transcript prediction using paired-end RNA-Seq data"
 
+[FusionGDB 2.0] (https://compbio.uth.edu/FusionGDB2/index.html)
+FusionGDB is a database for searching and providing functional annotaion of fusion gene pairs occuring as a result of structural variation. 
